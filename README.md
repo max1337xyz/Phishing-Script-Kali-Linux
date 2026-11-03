@@ -18,8 +18,7 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-
-
+<img src="Screenshot_35.png" alt="IMG" width="300" height="200">
 
 
 
@@ -90,7 +89,7 @@ sudo setoolkit
 Primeiramente, clone este repositório:
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/max1337xyz/Phishing-Script-Kali-Linux
 ```
 
 Entre na pasta do projeto:
