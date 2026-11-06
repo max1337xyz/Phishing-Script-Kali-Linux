@@ -6,7 +6,7 @@ def exibir_banner():
     VERMELHO = "\033[91m"
     RESET = "\033[0m"
     
-    # Linhas de rodapé estilizadas em vermelho
+    
     print(VERMELHO + "}-[" + "―" * 20 + " {+} Coded By GhostXYZ {+} " + "―" * 20 + "]-{" + RESET)
     print(VERMELHO + "}-[" + "―" * 18 + " {+} https://github.com/max1337xyz {+} " + "―" * 18 + "]-{" + RESET)
     print()
@@ -35,7 +35,7 @@ def automatizar_set(senha_kali="123"):
 
 
     try:
-        # Inicia o comando com sudo e -S para a senha, chamando o setoolkit
+       
         print("[*] Iniciando o SET...")
         sleep(2)
         
